@@ -1,0 +1,15 @@
+.first h1,h2,h3{
+    text-align: center;
+}
+.images img{
+    margin-left: 30%;
+    border-radius: 50%;
+}
+.second p{
+    text-align: center;
+}
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid black;
+}
